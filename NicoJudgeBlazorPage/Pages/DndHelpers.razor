@@ -1,0 +1,27 @@
+﻿@page "/DndHelpers"
+<h3>DndHelpers</h3>
+
+Dice roller
+<input type="text" @bind="NumDiceToRollString">Number of Dice to roll</input>
+<input type="text" @bind="InputRollNumberString">Number of sides</input>
+
+<button type="button" onclick="">Roll</button>
+<p role="status"> your rolled number is: @NumberRolled</p>
+
+
+@code {
+    private string NumDiceToRollString { get; set; }
+    private string InputRollNumberString { get; set; }
+    private long NumberRolled = 0;
+
+    private void Roll()
+    {
+        if (
+            long.TryParse(NumDiceToRollString, out var numDice) &&
+            long.TryParse(InputRollNumberString, out var inputRoll)
+            )
+            NumberRolled = numDice * inputRoll;
+
+
+    }
+}
