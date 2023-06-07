@@ -9,22 +9,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b0ba21c-bef1-415a-b20e-66f624e042ce" name="Changes" comment="" />
+    <list default="true" id="1b0ba21c-bef1-415a-b20e-66f624e042ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/blazorTestAPp/Pages/Index.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.blazorTestAPp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.blazorTestAPp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/TestComponent.razor" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/Pages/TestComponent.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/bin/Debug/net7.0/blazorTestAPp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/bin/Debug/net7.0/blazorTestAPp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/bin/Debug/net7.0/blazorTestAPp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/bin/Debug/net7.0/blazorTestAPp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/blazorTestAPp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/blazorTestAPp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/blazorTestAPp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/blazorTestAPp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/blazorTestAPp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/blazorTestAPp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/blazorTestAPp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/blazorTestAPp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/blazorTestAPp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/blazorTestAPp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/blazorTestAPp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/blazorTestAPp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/ref/blazorTestAPp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/ref/blazorTestAPp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/refint/blazorTestAPp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/obj/Debug/net7.0/refint/blazorTestAPp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/obj/blazorTestAPp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/obj/blazorTestAPp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blazorTestAPp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/blazorTestAPp/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2QqhbCuVy1UVDtRkmng6u2O5jko" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Develop/ChangeImplmementation&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -101,7 +130,9 @@
       <workItem from="1686089228272" duration="549000" />
       <workItem from="1686089836580" duration="942000" />
       <workItem from="1686090809826" duration="210000" />
-      <workItem from="1686091220847" duration="3241000" />
+      <workItem from="1686091220847" duration="3986000" />
+      <workItem from="1686096650302" duration="1073000" />
+      <workItem from="1686136221274" duration="596000" />
     </task>
     <servers />
   </component>

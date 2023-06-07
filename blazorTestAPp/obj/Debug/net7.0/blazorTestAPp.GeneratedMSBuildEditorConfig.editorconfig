@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Solutions\blazorTestAPp\blazorTestAPp
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Solutions/blazorTestAPp/blazorTestAPp/TestComponent.razor]
-build_metadata.AdditionalFiles.TargetPath = VGVzdENvbXBvbmVudC5yYXpvcg==
+[D:/Solutions/blazorTestAPp/blazorTestAPp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Solutions/blazorTestAPp/blazorTestAPp/Pages/TestComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdENvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
