@@ -1,12 +1,14 @@
 ﻿@page "/DndHelpers"
 <h3>DndHelpers</h3>
 
-Dice roller
-<input type="text" @bind="NumDiceToRollString">Number of Dice to roll</input>
-<input type="text" @bind="InputRollNumberString">Number of sides</input>
-
-<button type="button" onclick="">Roll</button>
-<p role="status"> your rolled number is: @NumberRolled</p>
+<div id="diceRoller">
+    Dice roller
+    Number of Dice to roll:<input type="text" @bind="NumDiceToRollString">
+    Number of sides:<input type="text" @bind="InputRollNumberString" val>
+    
+    <button type="button" onclick="">Roll</button>
+    <p role="status"> your rolled number is: @NumberRolled</p>
+</div>
 
 
 @code {
